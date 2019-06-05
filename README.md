@@ -12,5 +12,5 @@ to delete the tweeted ones every week.
 2 - Create a `memes` folder in the main directory.
 3 - Run `node index`.
 
-👽 ** snoowrap is using an old `ws`, so if you tried to add it to GitHub, there would be
-a vulnerability issue**
+👽 snoowrap is using an old `ws`, so if you tried to add it to GitHub, there would be
+a vulnerability issue
